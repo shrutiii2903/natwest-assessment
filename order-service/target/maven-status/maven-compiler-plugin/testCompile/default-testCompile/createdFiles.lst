@@ -1,0 +1,3 @@
+com\natwest\orders\dto\CreateOrderRequestValidationTest.class
+com\natwest\orders\controller\OrderControllerIntegrationTest.class
+com\natwest\orders\service\OrderServiceTest.class
